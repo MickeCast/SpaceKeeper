@@ -47,3 +47,7 @@ Log: `~/Library/Logs/SpaceKeeper/SpaceKeeper.log`
 - It can't create desktops. If macOS deleted some, their windows go to that monitor's last desktop.
 - Windows are matched by window ID. A window closed and reopened while the monitor was gone is new
   to SpaceKeeper, so it stays where the app opens it.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
